@@ -8,5 +8,9 @@ package testGit01;
 * @version 1.0  
 */
 public class AAA {
+	public static void main(String[] args) {
+		int a=0;
+		
+	}
 
 }
